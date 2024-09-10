@@ -38,11 +38,9 @@ python3 detectnet.py /dev/video0 images/test/output.mp4
 ```
 ## Results
 #### Object detection using webcam streaming:
-<p float="left">
-  <img src="video_Result.jpg" width="500" height="500" />
-  <img src="Video2_Result.jpg" width="500" height="500" />
-</p>
 
+![video_Result](https://github.com/user-attachments/assets/cd6cf987-53db-46e3-8183-df13ef73a0df)
+![Video2_Result](https://github.com/user-attachments/assets/aa8c2ebc-321d-459c-9b1a-2a870ba0e7f7)
 #### Detecting Students in the Mess:
+![live_video_result](https://github.com/user-attachments/assets/53493309-4e18-4b7e-ae3d-d401f444a33b)
 
-#### Detecting Students in ths hostel using face and person recognition
